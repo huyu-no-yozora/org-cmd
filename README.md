@@ -1,2 +1,9 @@
 # org-cmd
-repository for making original command
+
+## Contents
+[README.md](README.md)
+
+
+## License
+[GPL](LICENSE)
+
